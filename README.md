@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AnupCM
-- 👀 I’m interested in python, django, machine learning, artificial intelligence, web development.
+- 👀 I’m interested in python, django, machine learning, artificial intelligence, web development, a complete software development lifecycle.
 - 🌱 I’m currently learning machine learning, AI.
 - 💞️ I’m looking to collaborate on web application development
 - 📫 How to reach me this is my mail id anupshrine@gmail.com
